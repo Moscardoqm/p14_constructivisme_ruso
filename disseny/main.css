@@ -1,0 +1,302 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald:400");
+
+.rectngulo-1 {
+    background-color: #9f9d9d;
+    height: 634px;
+    left: 202px;
+    position: absolute;
+    top: 19px;
+    width: 803px;
+  }
+
+  .caixa1{
+      
+  }
+.p13-constructivisme-russo-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 634px;
+  min-width: 803px;
+  overflow-x: hidden;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.overlap-group {
+  height: 1072px;
+  margin-left: -202px;
+  margin-top: -19px;
+  position: relative;
+  width: 1064px;
+}
+
+.rectngulo-1 {
+  background-color: 
+#9f9d9d;
+  height: 634px;
+  left: 202px;
+  position: absolute;
+  top: 19px;
+  width: 803px;
+}
+
+.b {
+  cursor: pointer;
+  height: 42px;
+  left: 869px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 168px;
+  width: 24px;
+}
+
+.u {
+  cursor: pointer;
+  height: 127px;
+  left: 727px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 93px;
+  width: 58px;
+}
+
+.vereinigung-der-staatverlage-rfsfr {
+  cursor: pointer;
+  height: 18px;
+  left: 772px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 611px;
+  white-space: nowrap;
+  width: 194px;
+}
+
+.m {
+  cursor: pointer;
+  height: 41px;
+  left: 822px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 202px;
+  width: 30px;
+}
+
+.number {
+  color: var(--red);
+  cursor: pointer;
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 223px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 607px;
+  width: 89px;
+}
+
+.caixa_1 {
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 223px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 93px;
+  width: 55px;
+}
+
+.span1 {
+  font-size: var(--font-size-s);
+}
+
+.torre-electrica-02-2 {
+  height: 727px;
+  left: 329px;
+  position: absolute;
+  top: 196px;
+  width: 735px;
+}
+
+.i {
+  cursor: pointer;
+  height: 41px;
+  left: 804px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 221px;
+  width: 20px;
+}
+
+.printed-in-ussr {
+  cursor: pointer;
+  left: 550px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 609px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.a {
+  cursor: pointer;
+  height: 44px;
+  left: 897px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 155px;
+  width: 22px;
+}
+
+.price-1 {
+  cursor: pointer;
+  height: 127px;
+  left: 850px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 31px;
+  width: 58px;
+}
+
+.rectngulo-2 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 58px;
+  left: 202px;
+  position: absolute;
+  top: 595px;
+  width: 803px;
+}
+
+.text-1 {
+  cursor: pointer;
+  height: 100px;
+  left: 306px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 229px;
+  width: 25px;
+}
+
+.price-2 {
+  cursor: pointer;
+  height: 127px;
+  left: 908px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.price {
+  cursor: pointer;
+  height: 127px;
+  left: 794px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 56px;
+  width: 58px;
+}
+
+.u-1 {
+  cursor: pointer;
+  height: 38px;
+  left: 923px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 137px;
+  width: 26px;
+}
+
+
+
+:root {
+    --black: 
+  rgba(0, 0, 0, 1);
+    --dove-gray: 
+  rgba(112, 112, 112, 1);
+    --star-dust: 
+  rgba(159, 157, 157, 1);
+    --red: 
+  rgba(255, 0, 0, 1);
+    --white: 
+  rgba(255, 255, 255, 1);
+  
+    --font-size-xxxs: 10px;
+    --font-size-xxs: 20px;
+    --font-size-xs: 30px;
+    --font-size-s: 50px;
+    --font-size-m: 100px;
+  
+    --font-family-oswald: "Oswald";
+  }
+  
+  
+  
+  .oswald-normal-white-10px {
+    color: var(--white);
+    font-family: var(--font-family-oswald);
+    font-size: var(--font-size-xxxs);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .oswald-normal-black-30px {
+    color: var(--black);
+    font-family: var(--font-family-oswald);
+    font-size: var(--font-size-xs);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .border-1px-dove-gray {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--dove-gray);
+  }
+  .oswald-normal-white-100px {
+    color: var(--white);
+    font-family: var(--font-family-oswald);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .oswald-normal-black-100px {
+    color: var(--black);
+    font-family: var(--font-family-oswald);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .oswald-normal-white-30px {
+    color: var(--white);
+    font-family: var(--font-family-oswald);
+    font-size: var(--font-size-xs);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .oswald-normal-red-10px {
+    color: var(--red);
+    font-family: var(--font-family-oswald);
+    font-size: var(--font-size-xxxs);
+    font-weight: 400;
+    font-style: normal;
+  }
